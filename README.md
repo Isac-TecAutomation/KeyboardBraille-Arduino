@@ -10,5 +10,6 @@ de pressionamento de alguns Botões
 é retornado um valor em alfabeto Braile.
 
 Com isso essa bibloteca poderá ser usada em vários projetos 
-que exige a conversão de dados para braile.
+que exige a conversão de dados em Braile.
+
 
